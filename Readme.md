@@ -1,2 +1,2 @@
-Learn React & Typescript
+Learn React & Typescript & CSS & HTML & JS
 
